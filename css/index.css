@@ -1,0 +1,646 @@
+.paje-about7 .block-contune .left{
+    
+    background-image: url("../image/img2.PNG");
+    padding: 15px 16%;
+    background-size: 121%;
+}
+.paje-about7 .block-contune .left .imge img {
+    width: 100%;
+    border-radius: 5%;
+    box-shadow: 0 0 7px rgba(0,0,0,.3);
+    
+    transform: rotate(-90deg);
+}
+
+
+.paje-about7 .block-contune .left .imge {
+    width: 60%;
+    border-radius: 56px;
+    margin: 139px 14%;
+}
+.paje-about7 .block-contune .text-decrpson {
+    margin-top: 202px;
+    font-family: initial;
+    margin-right: 10%;
+    color: #556069;
+    margin-left: 12%;
+}
+.paje-about7 .block-contune .text-decrpson h4 {
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+.paje-about7 .block-contune .text-decrpson h2 {
+    margin-bottom: 15px;
+    font-size: 31px;
+    font-weight: 600;
+}
+
+
+.paje-about7 .block-contune .text-decrpson h2 span {
+    font-size: 31px;
+    color: #87c173;
+    font-weight: 600;
+    font-family: emoji;
+}
+.paje-about7 .block-contune .text-decrpson p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #a7a7a7;
+}
+.paje-about7 .block-contune .text-decrpson button {
+    border: none;
+    color: aliceblue;
+    background-color: #374d5f;
+    padding: 4px 32px;
+    margin-top: 22px;
+    border-radius: 9px;
+}
+.page_info .dataPersonrle .tetle_page h3 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 63px;
+    font-size: 43px;
+    font-family: inherit;
+    font-weight: 600;
+    color: #4d6375a8;
+}
+.page_info .dataPersonrle .tetle_page h3 samp {
+    color: #72b626;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .left ul {
+    list-style: none;
+    padding: 0px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block p {
+    color: #53585d;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: fantasy;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block p span {
+    background-color: #61686d;
+    height: 2px;
+    width: 43px;
+    display: inline-block;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block h3 {
+    color: #72b626;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 11px;
+}
+
+
+.page_info .dataPersonrle .bolock-list-data .block-1 .telechege button {
+    color: white;
+    background-color: #72b626;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 4px 36px;
+    border-radius: 10px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block {
+    border: #dcdbdb solid 1px;
+    margin-bottom: 18px;
+    padding: 3px 5px;
+    border-radius: 12px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .left ul li span {
+    font-weight: 700;
+    padding-left: 9px;
+    color: #49484c;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .left ul li {
+    padding: 1px 0px;
+    color: #5f6871;
+    font-size: 14px;
+}
+
+.page_info .dataPersonrle .bolock-list-data .block-1 .left h4 {
+    color: #61686d;
+    font-size: 25px;
+    font-weight: 700;
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 {
+    margin-top: 43px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 {
+
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 .telet h3 {
+    text-align: center;
+    color: #61686d;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 46px;
+}
+
+element.style {
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 .block_EXPERIENCE_EDUCATION .block-cntune {
+    border-left: #b1b1b1 solid 1px;
+    margin-left: 6%;
+    padding: 0px 29px;
+    margin-top: 30px;
+    position: relative;
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 .block_EXPERIENCE_EDUCATION .block-cntune img {
+    position: absolute;
+    top: -12px;
+    left: -5%;
+    width: 42px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 .block_EXPERIENCE_EDUCATION .block-cntune span {
+    color: white;
+    background-color: #82898ed4;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 4px 11px;
+    border-radius: 19px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-2 .block_EXPERIENCE_EDUCATION .block-cntune h3 {
+    font-size: 19px;
+    margin-top: 7px;
+    font-family: emoji;
+    font-weight: 800;
+    color: #475765;
+}
+
+.page_info .dataPersonrle .bolock-list-data .block-2 .block_EXPERIENCE_EDUCATION .block-cntune p {
+    font-size: 15px;
+    font-family: auto;
+    color: #909090;
+}
+.paje-about7 {
+    width: 98%;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 h4 {
+    text-align: center;
+    font-size: 37px;
+    font-family: unset;
+    color: #72686d;
+    margin-bottom: 40px;
+    margin-top: 45px;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji {
+ 
+    margin: 26px 23%;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .logage {
+    color: white;
+    background-color: #6a879a70;
+    font-size: 21px;
+    text-align: center;
+    padding: 8px 4px;
+    border-radius: 33px;
+    padding-bottom: 1px;
+    font-weight: 700;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .blocck {
+    background-color: #5a7588;
+    width: 100%;
+    height: 16px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .blocck span {
+    background-color: #57b835;
+    display: block;
+    height: 16px;
+    border-radius: 5px 27px 27px 5px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 0px;
+    font-size: 13px;
+    font-weight: 800;
+}
+.page_mes_project .lesproject img {
+    width: 100%;
+    
+    border-radius: 8px;
+}
+
+.page_mes_project .lesproject .un_elemet .lock-dontunu {
+    position: absolute;
+    top: 0px;
+    background-color: #a2a2a247;
+    width: 100%;
+    font-size: 28px;
+    height: 100%;
+    left: 0%;
+    border-radius: 10px;
+    font-family: emoji;
+    font-weight: 900;
+    padding: 36px 31%;
+    color: aliceblue;
+}
+.page_mes_project .lesproject .un_elemet {
+    border: #8c8c8c solid 2px;
+    margin: 5px 5%;
+    border-radius: 8px;
+    position: relative;
+}
+.page_mes_project .tele_de_paje h4 {
+    text-align: center;
+    color: #57b835;
+    font-family: emoji;
+    font-weight: 700;
+    margin-top: 33px;
+    margin-bottom: 31px;
+    font-size: 36px;
+}
+
+.page_mes_project .upap h4 {
+    text-align: center;
+    font-size: 26px;
+    font-family: fangsong;
+    color: #354261;
+    font-weight: 900;
+}
+
+.paga_les-artices .telel_page h3 {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 28px;
+    color: #72b626;
+    font-size: 44px;
+    font-family: emoji;
+    font-weight: 900;
+}
+
+.paga_les-artices .lesblock .aarticl img {
+    width: 100%;
+    border-bottom: #72b626 solid 4px;
+    border-radius: 6px;
+}
+.paga_les-artices .lesblock {
+    padding: 11px 8%;
+}
+
+.paga_les-artices .lesblock .aarticl p {
+    color: #384653;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.paga_les-artices .lesblock .aarticl h3 {
+    font-size: 19px;
+    font-family: auto;
+    font-weight: 900;
+    color: #72b626;
+    margin-top: 8px;
+}
+.paga_les-artices .lesblock .aarticl {
+    padding: 12px 3%;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 0px 0px 12px 2px #3d4669;
+    margin-bottom: 29px;
+    border-radius: 17px;
+}
+
+.page_mes_project .upap .detey {
+    padding: 30px 29%;
+}
+.page_mes_project .upap .detey p {
+    font-size: 21px;
+    color: #2c3b5d;
+    font-weight: 700;
+}
+.page_mes_project .upap .detey span {
+    font-size: 15px;
+    color: #879299;
+    font-family: cursive;
+}
+.page_mes_project .upap .les_capturde_img {
+    padding: 4px 10%;
+    padding-bottom: 41px;
+}
+
+.page_mes_project .upap .les_capturde_img img {
+    border: #303f60 solid 2px;
+    width: 100%;
+    margin: 6px 0%;
+    border-radius: 10px;
+}
+.mune_prencipal {
+    margin: 224px -19px;
+}
+.mune_prencipal .brodr .link img{
+    border: #72b626 solid 5px;
+
+}
+.mune_prencipal .link img {
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+  
+    border-radius: 25px;
+}
+.pajedetay h3 {
+    text-align: center;
+    color: #92c761;
+    font-size: 50px;
+    margin-top: 6px;
+    font-weight: 900;
+    margin-bottom: 33px;
+}
+
+.pajedetay .blocg p {
+    font-size: 18px;
+    font-family: emoji;
+    color: #4f565c;
+    margin-top: 35px;
+    margin: 49px 3%;
+}
+
+.pajedetay .blocg {
+    margin: 60px 11%;
+}
+.pajedetay .blocg h4 {
+    font-size: 35px;
+    font-family: fangsong;
+    font-weight: 900;
+    color: #4d5877;
+}
+.pajedetay .blocg img {
+    width: 99%;
+    border-radius: 6px;
+}
+.mobirtflyou {
+    width: 98%;
+}
+
+.mune_prencipal {
+      position: fixed;
+}
+.page_mes_project .lesproject img {
+    width: 99% !important;
+    height: 249px!important;
+}
+.page_mes_project .lesproject img {
+    width: 99% !important;
+    height: 249px!important;
+}
+.web{
+    display: inline-block;
+}.munepcipal-mobibl{
+    display: none;
+}
+@media screen and (max-width: 760px) {
+    .web{
+        display: none;
+    }.munepcipal-mobibl{
+        display: block;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+      }
+      a {
+        text-decoration: none;
+        color: #1E1E23;
+        opacity:1;
+        font-family: 'work sans', sans serif;
+        font-size: 1.5em;
+        font-weight: 400;
+        transition: 200ms;
+      }
+      a:hover {
+        opacity:0.5;
+      }
+      ul {
+        padding: 0;
+        list-style-type: none;
+      }
+      
+      
+      
+      .container {
+        margin-top: 50px; 
+        Display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .phone {
+        background-color: #36383F;
+        border-radius: 40px;
+        width: 300px;
+        height: 600px;
+        Display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 30px 50px 100px #85888C;
+      }
+      .content {
+        border: 1px solid #36383F;
+        border-radius: 20px;
+        width: 94%;
+        height: 91%;
+        background-color: #F5F6FA;
+        overflow: hidden;
+      }
+      nav {
+        background-color: #57b835;
+        height: 65px;
+      }
+      
+      
+      #menuToggle {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 25px;
+        left: 25px;
+        z-index: 1;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+      
+      #menuToggle input
+      {
+        display: flex;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        cursor: pointer;
+        opacity: 0;
+        z-index: 2;
+      }
+      
+      #menuToggle span
+      {
+        display: flex;
+        width: 29px;
+        height: 2px;
+        margin-bottom: 5px;
+        position: relative;
+        background: #ffffff;
+        border-radius: 3px;
+        z-index: 1;
+        transform-origin: 5px 0px;
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    opacity 0.55s ease;
+      }
+      
+      #menuToggle span:first-child
+      {
+        transform-origin: 0% 0%;
+      }
+      
+      #menuToggle span:nth-last-child(2)
+      {
+        transform-origin: 0% 100%;
+      }
+      
+      #menuToggle input:checked ~ span
+      {
+        opacity: 1;
+        transform: rotate(45deg) translate(-3px, -1px);
+        background: #36383F;
+      }
+      #menuToggle input:checked ~ span:nth-last-child(3)
+      {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+      }
+      
+      #menuToggle input:checked ~ span:nth-last-child(2)
+      {
+        transform: rotate(-45deg) translate(0, -1px);
+      }
+      
+      #menu
+      {
+        position: absolute;
+        width: 180px;
+        height: 400px;
+        box-shadow: 0 0 10px #85888C;
+        margin: -50px 0 0 -50px;
+        padding: 50px;
+        padding-top: 125px;
+        background-color: #F5F6FA;
+        -webkit-font-smoothing: antialiased;
+        transform-origin: 0% 0%;
+        transform: translate(-100%, 0);
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+      }
+      
+      #menu li
+      {
+        padding: 10px 0;
+        transition-delay: 2s;
+      }
+      
+      #menuToggle input:checked ~ ul
+      {
+        transform: none;
+      }
+  
+  
+  
+  
+      .paje-about7 .block-contune .left {
+        background-image: none;
+        padding: 15px 15%;
+        background-size: 101%;
+    }
+  
+  
+  .paje-about7 .block-contune .left .imge {
+    width: 60%;
+    border-radius: 56px;
+    margin: -46px 19%;
+    padding-top: 55pxx;
+}
+.paje-about7 .block-contune .text-decrpson {
+    margin-top: -6px;
+    font-family: initial;
+    margin-right: 5%;
+    color: #556069;
+    margin-left: 5%;
+}
+  .dataPersonrle {
+    margin-top: -90px;
+}
+  
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji {
+    margin: 16px 2%;
+}
+  
+  
+.page_info .dataPersonrle .tetle_page h3 {
+    text-align: center;
+    margin-top: 36px;
+    margin-bottom: 21px;
+    font-size: 37px;
+    font-family: inherit;
+    font-weight: 600;
+    color: #4d6375a8;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .telechege button {
+    color: white;
+    background-color: #72b626;
+    border: none;
+    font-size: 19px;
+    font-weight: bolder;
+    padding: 4px 36px;
+    border-radius: 10px;
+    margin-bottom: 21px;
+    width: 101%;
+}
+  
+  
+.modal-dialog.modal-xl {
+    width: 89%;
+}
+.page_mes_project .upap .detey {
+    padding: 16px 10%;
+}
+ul#menu {
+    width: 59%;
+    height: 555px;
+    padding-top: 82px;
+    background-color: #57b835;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+ul#menu li {
+    padding-left: 33px;
+    background-color: #f9f9f9;
+    margin-top: 8px;
+}
+.munepcipal-mobibl {
+    position: fixed;
+    width: 103%;
+    z-index: 9999;
+}
+  
+    }
+  
