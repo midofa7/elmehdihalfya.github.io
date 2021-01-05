@@ -4,6 +4,15 @@
     padding: 15px 16%;
     background-size: 121%;
 }
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block:hover{
+
+    background-color: #72b626;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .right .les_block_expeons .block:hover *{
+
+    color: #ffffff;
+}
+
 .paje-about7 .block-contune .left .imge img {
     width: 100%;
     border-radius: 5%;
@@ -92,8 +101,45 @@
     font-weight: 700;
     padding-left: 11px;
 }
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .blocck :hover span{
+    background-color: #5a7588;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .blocck:hover   {
+    background-color: #72b626;
+}
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .blocck span:hover {
+    background-color: #5a7588;
+    display: block;
+    height: 16px;
+    border-radius: 5px 27px 27px 5px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 0px;
+    font-size: 13px;
+    font-weight: 800;
+}
 
 
+.page_info .dataPersonrle .bolock-list-data .block-3 .tenoloji .logage:hover {
+    color: #bdcbd3;
+    background-color: #ffffff;
+    font-size: 21px;
+    text-align: center;
+    padding: 8px 4px;
+    border-radius: 33px;
+    border: #bfcdd4 solid 2px;
+    padding-bottom: 1px;
+    font-weight: 700;
+}
+
+.page_info .dataPersonrle .bolock-list-data .block-1 .telechege button:hover a{
+    color: #72b626 ;
+}
+.page_info .dataPersonrle .bolock-list-data .block-1 .telechege button:hover{
+    color: #72b626 ;
+    background-color:white;
+    border:  #72b626 solid 3px;
+}
 .page_info .dataPersonrle .bolock-list-data .block-1 .telechege button {
     color: white;
     background-color: #72b626;
